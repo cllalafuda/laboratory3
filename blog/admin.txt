@@ -1,0 +1,2 @@
+admin password: 1234
+admin login: klalafuda
